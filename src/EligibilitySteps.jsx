@@ -75,7 +75,7 @@ const EligibilitySteps = () => {
         </button>
         <br />
         <p className="mt-4 text-blue-500 px-4 py-2">
-          <Link to="/transaction">
+          <Link to="/Review">
             Go Back
           </Link>
           </p>
